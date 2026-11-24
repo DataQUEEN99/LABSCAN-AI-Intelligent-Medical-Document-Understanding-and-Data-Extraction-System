@@ -1,0 +1,2 @@
+# LABSCAN-AI-Intelligent-Medical-Document-Understanding-and-Data-Extraction-System
+LABSCAN AI is an AI-powered platform that extracts and organizes medical laboratory report data from scanned images and PDFs using OCR, image preprocessing, and intelligent text analysis. It identifies test names, values, units, and reference ranges, then converts them into structured formats for easy review, analysis, and visualization.
